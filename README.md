@@ -31,7 +31,7 @@ According initial idea need to create a mini project on Python contains the foll
 
 Program modes (options):
 * help: `hello-py -h` or`hello-py --help`
-* version: `hello -v` or `hello-py --version`
+* version: `hello-py -v` or `hello-py --version`
 * ordinary greetings: `hello-py`
     * i.e. without arguments
 
